@@ -1,0 +1,43 @@
+
+header {
+display: flex;
+align-items: center;
+margin: 2em;
+
+}
+
+header img {
+
+}
+
+.title {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 24px;
+}
+strong {
+font-style: initial ;
+text-transform: uppercase;
+}
+
+nav {
+  display: flex;
+}
+nav ul {
+display: flex;
+}
+
+nav ul li {
+  margin: 0 2px;
+}
+
+.separator-top {
+  border-top: 15px groove #111;
+}
+
+footer {
+  text-align: center;
+  color: gray;
+  margin-top: 5em;
+  border-top: 1px solid gray;
+}
